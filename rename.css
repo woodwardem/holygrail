@@ -1,0 +1,36 @@
+body {
+    height: 100%;
+}
+
+body > + {
+    border
+}
+
+
+
+main {
+    background: #fafafa;
+}
+
+main > .content {
+    background: #000000;
+}
+
+main > aside {
+    background: #9c9009;
+}
+
+main > nav {
+    background: red;
+}
+
+.deck {
+    background: #0fa0ce;
+}
+
+.centerWords {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

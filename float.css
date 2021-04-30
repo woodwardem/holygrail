@@ -3,7 +3,7 @@ main {
     height: calc(100% - 140px);
 }
 
-main > content {
+main > .content {
     height: 100%;
 }
 
